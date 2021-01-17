@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sensor-api-pg/static/css/main.94438829.chunk.css",
+    "main.js": "/sensor-api-pg/static/js/main.f4ea0220.chunk.js",
+    "main.js.map": "/sensor-api-pg/static/js/main.f4ea0220.chunk.js.map",
+    "runtime-main.js": "/sensor-api-pg/static/js/runtime-main.d778668b.js",
+    "runtime-main.js.map": "/sensor-api-pg/static/js/runtime-main.d778668b.js.map",
+    "static/js/2.57355ba8.chunk.js": "/sensor-api-pg/static/js/2.57355ba8.chunk.js",
+    "static/js/2.57355ba8.chunk.js.map": "/sensor-api-pg/static/js/2.57355ba8.chunk.js.map",
+    "static/js/3.b4ae072b.chunk.js": "/sensor-api-pg/static/js/3.b4ae072b.chunk.js",
+    "static/js/3.b4ae072b.chunk.js.map": "/sensor-api-pg/static/js/3.b4ae072b.chunk.js.map",
+    "index.html": "/sensor-api-pg/index.html",
+    "static/css/main.94438829.chunk.css.map": "/sensor-api-pg/static/css/main.94438829.chunk.css.map",
+    "static/js/2.57355ba8.chunk.js.LICENSE.txt": "/sensor-api-pg/static/js/2.57355ba8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d778668b.js",
+    "static/js/2.57355ba8.chunk.js",
+    "static/css/main.94438829.chunk.css",
+    "static/js/main.f4ea0220.chunk.js"
+  ]
+}
